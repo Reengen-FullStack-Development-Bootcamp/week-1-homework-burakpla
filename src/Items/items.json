@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Nike AirMax Running",
+      "price": 50,
+      "imgUrl": "https://m.media-amazon.com/images/I/717GYVK9fVL._AC_UL320_.jpg",
+      "info":"Just for running",
+      "size":""
+    },
+    {
+      "id": 2,
+      "title": "Adidas Superstar Classic",
+      "price": 45,
+      "imgUrl": "https://m.media-amazon.com/images/I/71qcTI4pQhL._AC_UL320_.jpg",
+      "info":"This is a classic",
+      "size":""
+    },
+    {
+      "id": 3,
+      "title": "Vans Extra Light",
+      "price": 35,
+      "imgUrl": "https://m.media-amazon.com/images/I/81W0Pxe31wL._AC_UL320_.jpg",
+      "info":"Walk with the party",
+      "size":""
+    }
+  ]
